@@ -4,7 +4,7 @@ I am **Shubhrajit Pallob**, a DevOps Engineer based in the United States.
 
 My primary focus is on the entire software lifecycle, encompassing development, testing, and the efficient deployment of code to production. I possess a strong foundation in Software Development processes and Design, complemented by self-developed expertise in applying modern DevOps principles to ensure the seamless deployment and operation of software.
 
-## I'm🔭 I’m currently working on... # #
+## 🔭 I’m currently working on...
 
   I'm on the verge of graduating this December! Currently, my major project is designing and building my very own Kubernetes home server.
 
