@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-I am **Shubhrajit Pallob**, a DevOps Engineer based in the United States.
+I am **Shubhrajit Pallob**, a Software Engineer based in the United States.
 
-My primary focus is on the entire software lifecycle, encompassing development, testing, and the efficient deployment of code to production. I possess a strong foundation in Software Development processes and Design, complemented by self-developed expertise in applying modern DevOps principles to ensure the seamless deployment and operation of software.
+My primary focus is on DevOps, but I am also proficient in the entire software lifecycle, encompassing development, testing, and the efficient deployment of code to production. I possess a strong foundation in Software Development processes and Design, complemented by self-developed expertise in applying modern DevOps principles to ensure the seamless deployment and operation of software.
+
+I have extensive hands-on practice using the cloud and building Cloud Infrastructure and Automation. Recently, I have dabbled in GitOps as I build and expand my ## Kubernetes Homelab.
 
 ## 🔭 I’m currently working on...
 
@@ -13,11 +15,11 @@ My primary focus is on the entire software lifecycle, encompassing development, 
 ## 🛠️ My Main Tech Stack
 My core technologies and languages include:
 
-* Languages: Python, Java, YAML
+* Languages: Python, Java, YAML, HCL.
 
-* Emerging Tech: AI/ML Integration
+* Emerging Tech: Cloud Engineer and AI/ML Integration.
 
-* Favorite DevOps Tools: Git, Terraform, Ansible, and many more.
+* Favorite DevOps Tools: Git, Terraform, Ansible, ArgoCD, FluxCD, and many more.
 
   For a complete, detailed list of my tech stack and a showcase of my projects, please visit my [Personal Website](https://my-portfolio-wic5.onrender.com).
 
@@ -34,6 +36,6 @@ My core technologies and languages include:
 
 ## ⚡ Fun fact:
   * I love cats
-  * I love making PC, specifically gaming PCs.
+  * I love making PCs, specifically gaming PCs.
   * I love my bikes.
   * I got interested in K-dramas recently, and I absolutely love them.
